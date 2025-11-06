@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ui-spa-boa/static/css/main.a98a4f37.css",
+    "main.js": "/ui-spa-boa/static/js/main.cff020df.js",
+    "static/js/453.40a884e0.chunk.js": "/ui-spa-boa/static/js/453.40a884e0.chunk.js",
+    "index.html": "/ui-spa-boa/index.html",
+    "main.a98a4f37.css.map": "/ui-spa-boa/static/css/main.a98a4f37.css.map",
+    "main.cff020df.js.map": "/ui-spa-boa/static/js/main.cff020df.js.map",
+    "453.40a884e0.chunk.js.map": "/ui-spa-boa/static/js/453.40a884e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a98a4f37.css",
+    "static/js/main.cff020df.js"
+  ]
+}
