@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background: linear-gradient(to right, #1e3a8a 50%, rgba(30, 58, 138, 0) 90%), 
+              url('https://images.pexels.com/photos/1309766/pexels-photo-1309766.jpeg?_gl=1*1bre26l*_ga*MTc4MDg5MjYxOS4xNzYyNDI3MDY4*_ga_8JE65Q40S6*czE3NjI0MjcwNjgkbzEkZzAkdDE3NjI0MjcwNjgkajYwJGwwJGgw');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
